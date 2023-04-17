@@ -29,7 +29,7 @@ export default function ChatBox() {
           </Avatar.Group>
         </Col>
         <Col xs={24} md={6} style={{ marginTop: '1rem' }}>
-          <Buttons text="Chat Now" type="primary" size="large" />
+          <Buttons text="Chat No" type="primary" size="large" />
         </Col>
       </Row>
     </Card>

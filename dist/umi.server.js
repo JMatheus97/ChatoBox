@@ -86146,7 +86146,7 @@ function ChatBox() {
           marginTop: '1rem'
         },
         children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_12__["jsxDEV"])(_src_compoents_Button__WEBPACK_IMPORTED_MODULE_9__["default"], {
-          text: "Chat Now",
+          text: "Chat No",
           type: "primary",
           size: "large"
         }, void 0, false, {
